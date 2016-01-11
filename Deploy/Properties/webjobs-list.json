@@ -3,6 +3,9 @@
   "WebJobs": [
     {
       "filePath": "../MyWebJob/MyWebJob.csproj"
+    },
+    {
+      "filePath": "../MySecondWebJob/MySecondWebJob.csproj"
     }
   ]
 }
